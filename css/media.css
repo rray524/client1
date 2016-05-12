@@ -1,0 +1,33 @@
+@media(min-width:992px) and (max-width:1199px) {
+    .logo_txt h2 {
+        font-size: 45px;
+    }
+    .logo_txt p {
+        font-size: 13px;
+        letter-spacing: 3px;
+    }
+    hr.logo_item {
+        width: 67%;
+    }
+    #menu li a {
+        font-size: 16px;
+    }
+    .bucket_txt h3 {
+        font-size: 20px;
+    }
+    .list_bckt li {
+        font-size: 20px;
+    }
+    .container_area > h3 {
+        font-size: 20px;
+    }
+    .container_bttn {
+        padding-right: 24%;
+    }
+    .extra {
+        padding-bottom: 42px;
+    }
+    .extra2 {
+        padding-bottom: 20px;
+    }
+}
