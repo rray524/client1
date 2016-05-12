@@ -2,6 +2,10 @@ body {
     font-family: 'Bitter', serif;
 }
 
+.slicknav_menu {
+    display: none;
+}
+
 
 /*nav-area*/
 
