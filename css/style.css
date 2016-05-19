@@ -200,6 +200,83 @@ hr.no-3 {
     width: 97%;
 }
 
+.seo_text > h3 {
+    color: #489300;
+    padding-top: 19px;
+}
+
+.seo_text > p {
+    color: #a6a6a6;
+    line-height: 27px;
+}
+
+ul.new {
+    padding-left: 0;
+}
+
+.new > li {
+    display: block;
+    padding: 4px 0;
+}
+
+th {
+    text-align: center;
+}
+
+.fall {
+    padding-left: 0;
+}
+
+.abfall_txt > h3 {
+    color: #4a9700;
+}
+
+.list_one {
+    text-align: center;
+}
+
+.list_two {
+    text-align: center;
+}
+
+.list_one > h3 {
+    color: #a5ac07;
+}
+
+.list_two > h3 {
+    color: #a5ac07;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+}
+
+select {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-bottom: 1px solid #6a9300;
+    -webkit-border-image: none;
+    -o-border-image: none;
+    border-image: none;
+    border-left: 1px solid #6a9300;
+    border-right: 1px solid #6a9300;
+    border-radius: 9px;
+    border-top: 1px solid #6a9300;
+    padding: 10px;
+}
+
+.fall > li {
+    color: #b2a6a6;
+    display: block;
+    font-size: 17px;
+    padding: 10px 0;
+}
+
 .footer_lst > li {
     color: #489300;
     font-size: 17px;
